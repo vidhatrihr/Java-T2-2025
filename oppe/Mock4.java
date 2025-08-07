@@ -1,3 +1,5 @@
+package oppe;
+
 import java.util.*;
 
 class Shop {
